@@ -1,6 +1,5 @@
 <?php
 return array(
-	'button_up' => 'Наверх',
+    'button_up' => 'Наверх',
 );
 
-?>
