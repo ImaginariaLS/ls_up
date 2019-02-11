@@ -4,7 +4,7 @@
     top: 0;
     bottom: 0;
     left: 0;
-    width: 90px;
+    width: 75px; /* was 90px, уменьшено по просьбе Кейт 2019-02-11, см тг-чат имажинарии */
     -moz-opacity: 0.3;
     filter: alpha(opacity=30);
     opacity: 0.3;
